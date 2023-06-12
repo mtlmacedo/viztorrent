@@ -6,7 +6,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/mtlmacedo/viztorrent/pkg/constants"
+	"github.com/mtlmacedo/viztorrent/pkg/utils/constants"
 )
 
 type Peer struct {
